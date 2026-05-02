@@ -25,6 +25,7 @@ The topology simulates a **mini bank network**, including legitimate DHCP servic
 ## 🧱 Network Topology
 
 <img width="1365" height="618" alt="DHCP SNOOPING (2)" src="https://github.com/user-attachments/assets/02fc8194-d3c7-4c03-958d-2b0248a7aa5c" />
+<img width="1365" height="767" alt="DHCP SNOOPING" src="https://github.com/user-attachments/assets/1a7401a1-76cb-46a2-a354-372de33b5fa8" />
 
 
 
@@ -132,7 +133,4 @@ Aspiring Network Engineer
 ## ⭐ Notes
 
 This lab is part of my hands-on cybersecurity and networking practice focused on securing enterprise Layer 2 environments.
-
-<img width="1365" height="767" alt="DHCP SNOOPING" src="https://github.com/user-attachments/assets/e5b767d6-4693-4d33-82f0-7e272826db43" />
-<img width="1365" height="767" alt="DHCP SNOOPING" src="https://github.com/user-attachments/assets/1a7401a1-76cb-46a2-a354-372de33b5fa8" />
 
